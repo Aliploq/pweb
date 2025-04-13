@@ -1,5 +1,3 @@
 # pweb
 
-This is my first project.
-
-By Alip
+Tugas pertama
